@@ -119,7 +119,7 @@ Authorization: Bearer your-token-here
 {
   "title": "Updated Task",
   "description": "Updated description",
-  "status": "completed"
+  "status": "Favorite"
 }
 ```
 
