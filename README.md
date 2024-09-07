@@ -84,7 +84,9 @@ Authorization: Bearer your-token-here
 {
   "title": "New Task",
   "description": "Task description",
-  "status": "Non-favorite"
+  "status": "non-favorite",
+  "dueDate": "2024-12-31T23:59:59.999Z",
+  "userId": "60e6efeb52e85b45b8f7a1e3"
 }
 ```
 
