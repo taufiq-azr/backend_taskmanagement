@@ -13,13 +13,8 @@ http://localhost:3000/api/
 
 ## Authentication
 
-To use the API, you need to include a token in the `Authorization` header for protected routes.
+To use the API, you need to include a token in the `Authorization` header for protected routes. The token is created when the user login.
 
-### Example
-
-```
-Authorization: Bearer your-token-here
-```
 
 ## Endpoints
 
